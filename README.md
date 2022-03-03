@@ -8,4 +8,6 @@ This program is that lets two users play the tic-tac-toe game using GUI.
 - A user placing three of their marks on a horizontal, vertical, or diagonal line first will be the winner.
 - If all nine blocks are marked without a winner, the game will end in a draw.
 
+<br/>
+
 This project was created using Eclipse.
