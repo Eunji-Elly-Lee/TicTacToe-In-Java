@@ -10,4 +10,4 @@ This program is that lets two users play the tic-tac-toe game using GUI.
 
 <br/>
 
-This project was created using Eclipse.
+This project was created using JavaFX with Eclipse.
